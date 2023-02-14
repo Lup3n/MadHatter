@@ -1,9 +1,9 @@
 # MadHatter
 
 
-##javac *.java
+## javac *.java
 
-##java Main --url <target> --wordlist <path to wordlist>
+## java Main --url <target> --wordlist <path to wordlist>
 
 
 
